@@ -1,0 +1,1 @@
+Powershell.exe -Executionpolicy bypass -File .\GUI-Build.ps1
